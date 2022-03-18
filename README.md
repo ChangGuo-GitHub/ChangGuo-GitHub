@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChangGuo-GitHub
 - 👀 I’m interested in statistics and data science, volleyball, healthcare, sustainability and education!
-- 🌱 I’m currently learning how to web scrape data from websites and files
+- 🌱 I’m currently learning how to web scrape data from websites
 - 💞️ I’m looking to collaborate on programming in Python
 - 📫 How to reach me changguo@utexas.edu
 
